@@ -7,17 +7,14 @@ _An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionali
 ## Getting Started
 
 ### 3D Files
-***
 _This repo contains .STL files for the main F.S. Plotter assembly and the Cassette Tape Mounting Fixture. The mount was designed to be compatible with the Ender 3 X carriage. You can 3D print these files without the need for supports using your preferred slicer settings._
 ### PrusaSlicer Settings
-***
 _The PrusaSlicer settings I use to generate the plotter GCode is included. PrusaSlicer is a free slicer available here. The input into PrusaSlicer will be the SVG file formats of your choice.._
 
 
 ## Setup/Installation Requirements
 ### Tools
 _The following tools are needed to build the F.S. Plotter._
-***
 *  _Ender 3 3D Printer_
 *  _Hex Drivers_
 *  _M2, M3, M4 Thread Taps_
@@ -25,7 +22,6 @@ _The following tools are needed to build the F.S. Plotter._
 
 ### Materials
 _The following materials are needed to build the F.S. Plotter. Note the springs and screws are purchased in a kit but only specific ones are needed. See assembly instructions for details_
-***
 *  _PLA to print the plotter/fixtures_
 *  _[40mm Linear Rail](https://www.aliexpress.us/item/2251832805844953.html?spm=a2g0o.order_list.order_list_main.5.454c180283Jvim&gatewayAdapt=glo2usa)_
 * _[Metric Screw Kit](https://www.amazon.com/gp/product/B07K141VFD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)_
