@@ -1,7 +1,7 @@
 # _F.S. PLOTTER_
 **By: Geoffrey Gao**
 
-_An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for 2D printing onto non-standard materials/objects. This repository also includes a fixture to allow for printing directly onto cassette tapes, and basic settings for PrusaSlicer for plotting._
+_An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for 2D printing onto non-standard materials/objects._
 
 ![Demo image of the FS Plotter](https://i.imgur.com/9ked8PK.png)
 
@@ -36,6 +36,15 @@ The following materials are needed to build the F.S. Plotter _(Note the springs 
 
 ## Assembly/Usage Instructions
 _Please see the PDFs included in the [Instructions Folder](https://github.com/geoffreygao1/Plotter/tree/main/Instructions) for assembly and usage instructions_
+
+## Cassette Tape Fixture
+I have also designed a fixture to allow one to print directly onto a cassette tape. This was intended as a cheaper alternative to pad printing, with a better finish than printout tape labels.  
+  
+For best results, use an oil ink based pen for printing to prevent smearing. I prefer the [Sharpie Extra-fine Tip Paint Markers](https://www.sharpie.com/markers/chalk-paint-markers/sharpie-oil-based-paint-marker-extra-fine-point/SAP_1874990.html), but have been constantly testing out new pens to get better results.  
+
+![Cassette tape Fixture](https://i.imgur.com/IbyrmRM.png)
+
+This is still a work in progress so please check regularly for updates!
 
 ## License
 Copyright (c) _2024_  _Geoffrey Gao_  
