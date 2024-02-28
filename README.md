@@ -45,7 +45,7 @@ For best results, use an oil ink based pen for printing to prevent smearing. I p
 <img src="https://i.imgur.com/IbyrmRM.png" width="300">
 
 
-This is still a work in progress so please check regularly for updates!
+This is still a work in progress so please check regularly for updates! Special thanks to Jake C. for allowing me to borrow his Ender 3!
 
 ## License
 Copyright (c) _2024_  _Geoffrey Gao_  
