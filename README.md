@@ -3,11 +3,14 @@
 
 _An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for 2D printing onto non-standard materials/objects. This repository also includes a fixture to allow for printing directly onto cassette tapes, and basic settings for PrusaSlicer for plotting._
 
+![Demo image of the FS Plotter](https://imgur.com/a/77MoFQB)
+
 
 ## Getting Started
 
 ### 3D Files
-This repo contains .STL files for the main F.S. Plotter assembly and the Cassette Tape Mounting Fixture. The plotter was designed to be compatible with the Ender 3 X carriage. You can 3D print these files without the need for supports using your preferred slicer settings.
+This repo contains STL files for the main F.S. Plotter assembly and the Cassette Tape Mounting Fixture. The plotter was designed to be compatible with the Ender 3 X carriage. You can 3D print these files without the need for supports using your preferred slicer settings.
+
 ### PrusaSlicer Settings
 The PrusaSlicer settings profile I use to generate the plotter GCode is included. PrusaSlicer is a free slicer available [here](https://www.prusa3d.com/en/page/prusaslicer_424/). You can learn how to import profile settings [here](https://help.prusa3d.com/article/how-to-import-and-export-custom-profiles-in-prusaslicer_382766). The input into PrusaSlicer will be the SVG file formats of your design.
 
@@ -31,9 +34,6 @@ The following materials are needed to build the F.S. Plotter _(Note the springs 
 
 ## Assembly/Usage Instructions
 _Please see the PDFs included in the Instructions Folder for assembly instructions_
-  
-## How to Use
-Use Instructions Here
 
 ## License
 Copyright (c) _2024_  _Geoffrey Gao_
