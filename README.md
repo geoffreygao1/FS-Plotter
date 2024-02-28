@@ -14,6 +14,8 @@ This repo contains STL files for the main F.S. Plotter assembly and the Cassette
 ### PrusaSlicer Settings
 The PrusaSlicer settings profile I use to generate the plotter GCode is included. PrusaSlicer is a free slicer available [here](https://www.prusa3d.com/en/page/prusaslicer_424/). You can learn how to import profile settings [here](https://help.prusa3d.com/article/how-to-import-and-export-custom-profiles-in-prusaslicer_382766). The input into PrusaSlicer will be the SVG file formats of your design.
 
+### Instructions
+Contains PDFs with instructions on how to assemble, install, and use the plotter. Also includes a disassembly guide on how to remove the existing hotend on the Ender 3 printer.
 
 ## Setup/Installation Requirements
 ### Tools
@@ -33,8 +35,8 @@ The following materials are needed to build the F.S. Plotter _(Note the springs 
 
 
 ## Assembly/Usage Instructions
-_Please see the PDFs included in the Instructions Folder for assembly instructions_
+_Please see the PDFs included in the [Instructions Folder](https://github.com/geoffreygao1/Plotter/tree/main/Instructions) for assembly and usage instructions_
 
 ## License
-Copyright (c) _2024_  _Geoffrey Gao_
+Copyright (c) _2024_  _Geoffrey Gao_  
 _Not for commercial use_
