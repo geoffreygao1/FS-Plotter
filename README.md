@@ -29,12 +29,12 @@ The following materials are needed to build the F.S. Plotter _(Note the springs 
 * [Compression Spring Kit](https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oENvzNEO-WFAaDM5gwW5XARYotBUET6vC5KYUWX5-t2AzaaVu_9kmDe4dv1sqKpHo4ty6gVKh9PSDaPQ6a6FalDLMrhdeUUzLaSkXZtUO4JKRjMZNQTryWCaEWkOGMyxdTM6avatdjzTBRnKIEJOCyqHJuk1tU_i0R0pHoVnNHaUKih1k1vct712QprWotIrIkaRxe-RTSLSec3pYUGvbdH1mEMHFwfF0HeM-n8UW90.MJGj1d6DOn0h5zKlIwrh6RFbQRCkAim5IoaBg9l5MMc&dib_tag=se&keywords=Compression+Spring+Kit&qid=1708984110&sr=8-1)
 
 
-## Assembly Instructions
-_Please see the PDFs included in the 3D Files folder for assembly instructions_
+## Assembly/Usage Instructions
+_Please see the PDFs included in the Instructions Folder for assembly instructions_
   
 ## How to Use
 Use Instructions Here
 
 ## License
 Copyright (c) _2024_  _Geoffrey Gao_
-Not for commercial use
+_Not for commercial use_
