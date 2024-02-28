@@ -3,7 +3,7 @@
 
 _An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for 2D printing onto non-standard materials/objects. This repository also includes a fixture to allow for printing directly onto cassette tapes, and basic settings for PrusaSlicer for plotting._
 
-![Demo image of the FS Plotter](https://imgur.com/a/77MoFQB)
+![Demo image of the FS Plotter](https://i.imgur.com/9ked8PK.png)
 
 
 ## Getting Started
