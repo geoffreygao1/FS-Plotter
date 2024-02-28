@@ -3,7 +3,7 @@
 
 _An attachment for the Ender 3 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for 2D printing onto non-standard materials/objects._
 
-![Demo image of the FS Plotter](https://i.imgur.com/9ked8PK.png)
+<img src="https://i.imgur.com/9ked8PK.png" width="300">
 
 
 ## Getting Started
@@ -42,7 +42,8 @@ I have also designed a fixture to allow one to print directly onto a cassette ta
   
 For best results, use an oil ink based pen for printing to prevent smearing. I prefer the [Sharpie Extra-fine Tip Paint Markers](https://www.sharpie.com/markers/chalk-paint-markers/sharpie-oil-based-paint-marker-extra-fine-point/SAP_1874990.html), but have been constantly testing out new pens to get better results.  
 
-![Cassette tape Fixture](https://i.imgur.com/IbyrmRM.png)
+<img src="https://i.imgur.com/IbyrmRM.png" width="300">
+
 
 This is still a work in progress so please check regularly for updates!
 
