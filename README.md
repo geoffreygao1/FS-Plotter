@@ -42,7 +42,7 @@ I have also designed a fixture to allow one to print directly onto a cassette ta
   
 For best results, use an oil ink based pen for printing to prevent smearing. I prefer the [Sharpie Extra-fine Tip Paint Markers](https://www.sharpie.com/markers/chalk-paint-markers/sharpie-oil-based-paint-marker-extra-fine-point/SAP_1874990.html), but have been constantly testing out new pens to get better results.  
 
-<img src="https://i.imgur.com/IbyrmRM.png" width="300">
+<img src="https://i.imgur.com/J62OAUf.jpeg" width="300">
 
 
 This is still a work in progress so please check regularly for updates! Special thanks to Jake C. for allowing me to borrow his Ender 3!
