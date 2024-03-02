@@ -48,6 +48,8 @@ _(Note the springs and screws are purchased in a kit but only specific ones are 
 * [Extension Spring Kit](https://www.amazon.com/dp/B0CFRF42LQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 * [Compression Spring Kit](https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oENvzNEO-WFAaDM5gwW5XARYotBUET6vC5KYUWX5-t2AzaaVu_9kmDe4dv1sqKpHo4ty6gVKh9PSDaPQ6a6FalDLMrhdeUUzLaSkXZtUO4JKRjMZNQTryWCaEWkOGMyxdTM6avatdjzTBRnKIEJOCyqHJuk1tU_i0R0pHoVnNHaUKih1k1vct712QprWotIrIkaRxe-RTSLSec3pYUGvbdH1mEMHFwfF0HeM-n8UW90.MJGj1d6DOn0h5zKlIwrh6RFbQRCkAim5IoaBg9l5MMc&dib_tag=se&keywords=Compression+Spring+Kit&qid=1708984110&sr=8-1)
 
+If individual parts are purchased separately (via Aliexpress), both assemblies can be built for around $30!
+
 
 ## Assembly/Usage Instructions
 _Please see the PDFs included in the [Instructions Folder](https://github.com/geoffreygao1/Plotter/tree/main/Instructions) for assembly and usage instructions_
