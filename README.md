@@ -13,8 +13,9 @@ _An attachment for the [Ender 3](https://www.creality.com/products/ender-3-3d-pr
 A spring loaded fixture to designed to hold a pen in place on the Ender 3 X-Carriage. Can be used with any writing utensil (up to 15mm diameter) and other tools (e.g., scribers, engravers, etc.)
 
 <p align="center">
- <span><img src="https://i.imgur.com/9ked8PK.png" height="400">
-<img src="https://i.imgur.com/tch4QVY.png" height="400"></span>
+ <span><img src="https://i.imgur.com/9ked8PK.png" height="300">
+  <img src="https://i.imgur.com/dD6KlmP.png" height="300">
+<img src="https://i.imgur.com/tch4QVY.png" height="300"></span>
 </p>
 
 
