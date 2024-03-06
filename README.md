@@ -32,11 +32,11 @@ A spring loaded fixture to designed to hold a pen in place on the Ender 3 X-Carr
 Showcasing prints on paper, wood, fabric, cassette, and engraving on acrylic:
 <p align="center">
 <span>
-<img src="https://i.imgur.com/N5LnGRI.jpeg" width="19%">
-<img src="https://i.imgur.com/BBErpvI.jpeg" width="19%">
-<img src="https://i.imgur.com/W9ZVI6a.jpeg" width="19%">
-<img src="https://i.imgur.com/O9fhjB6.jpeg" width="19%">
-<img src="https://i.imgur.com/nYcUsdo.jpeg" width="19%">
+<img src="https://i.imgur.com/N5LnGRI.jpeg" width="300">
+<img src="https://i.imgur.com/BBErpvI.jpeg" width="300">
+<img src="https://i.imgur.com/W9ZVI6a.jpeg" width="300">
+<img src="https://i.imgur.com/O9fhjB6.jpeg" width="300">
+<img src="https://i.imgur.com/nYcUsdo.jpeg" width="300">
 </span>
 </p>
 
