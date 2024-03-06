@@ -1,6 +1,10 @@
 # _F.S. PLOTTER_
 **By: Geoffrey Gao**
 
+<p align="center">
+<img src="https://i.imgur.com/8dcwgNZ.png" width="100%">
+</p>
+
 _An attachment for the [Ender 3](https://www.creality.com/products/ender-3-3d-printer) 3D Printer that allows for 2D Plotter functionality. This project was intended to allow for printing onto non-standard materials/objects. Included are the designs for the following:_
 
 
@@ -8,16 +12,32 @@ _An attachment for the [Ender 3](https://www.creality.com/products/ender-3-3d-pr
 
 A spring loaded fixture to designed to hold a pen in place on the Ender 3 X-Carriage. Can be used with any writing utensil (up to 15mm diameter) and other tools (e.g., scribers, engravers, etc.)
 
- <span><img src="https://i.imgur.com/9ked8PK.png" height="300">
-<img src="https://i.imgur.com/tch4QVY.png" height="300"></span>
+<p align="center">
+ <span><img src="https://i.imgur.com/9ked8PK.png" height="400">
+<img src="https://i.imgur.com/tch4QVY.png" height="400"></span>
+</p>
 
 
 ### Cassette Tape Fixture
  A simple fixture to allow one to print directly onto a cassette tape. This was intended as a cheaper alternative to pad printing, with a better finish than printout tape labels. For best results, use an oil ink based pen for printing to prevent smearing. 
-  
-  <span><img src="https://i.imgur.com/SR1jRtp.png" height="300">
-    <img src="https://i.imgur.com/J62OAUf.jpeg" height="300"></span>
 
+  <p align="center">
+  <span><img src="https://i.imgur.com/SR1jRtp.png" height="400">     
+    <img src="https://i.imgur.com/J62OAUf.jpeg" height="400"></span>
+  </p>
+
+## Examples
+
+Showcasing prints on paper, wood, fabric, cassette, and engraving on acrylic:
+<p align="center">
+<span>
+<img src="https://i.imgur.com/N5LnGRI.jpeg" width="19%">
+<img src="https://i.imgur.com/BBErpvI.jpeg" width="19%">
+<img src="https://i.imgur.com/W9ZVI6a.jpeg" width="19%">
+<img src="https://i.imgur.com/O9fhjB6.jpeg" width="19%">
+<img src="https://i.imgur.com/nYcUsdo.jpeg" width="19%">
+</span>
+</p>
 
 
 ## Getting Started
@@ -53,6 +73,7 @@ If individual parts are purchased separately (via Aliexpress), both assemblies c
 
 ## Assembly/Usage Instructions
 _Please see the PDFs included in the [Instructions Folder](https://github.com/geoffreygao1/Plotter/tree/main/Instructions) for assembly and usage instructions_
+
 
 ## Notes
 
